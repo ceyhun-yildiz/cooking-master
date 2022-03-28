@@ -1,6 +1,8 @@
 import firebase from 'firebase/app'
 import 'firebase/firestore'
 
+// Here connect your own Firebase backend
+
 const firebaseConfig = {
   apiKey: "AIzaSyDCeOytuIxNGchrGq4CrZq4cpohiIX9uYg",
   authDomain: "testing-123-c16fc.firebaseapp.com",
